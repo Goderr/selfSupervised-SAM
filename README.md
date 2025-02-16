@@ -1,1 +1,1 @@
-# selfSupervised-SAM
+# SelfSupervised-SAM
